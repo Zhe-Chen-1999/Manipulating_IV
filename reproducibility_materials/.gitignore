@@ -1,3 +1,5 @@
 # Ignore Mac system files
 ._*
 .DS_Store
+
+git/
